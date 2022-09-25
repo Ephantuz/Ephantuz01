@@ -1,4 +1,4 @@
-<img src="https://github.com/Ephantuz/Ephantuz/blob/main/Developer.gif" width="850" height="500" />
+<img src="https://github.com/Ephantuz/Ephantuz/blob/main/7xvt.gif" width="850" height="500" />
 
                Hi there 👋 Buddy, Welcome to my world.  
 
