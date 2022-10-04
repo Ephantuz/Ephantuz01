@@ -56,8 +56,6 @@ My Major Skills Are:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thedarkcypher"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thedarkcypher" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ephantuz&show_icons=true&locale=en&layout=compact" alt="ephantuz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ephantuz&show_icons=true&locale=en" alt="ephantuz" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephantuz)](https://github.com/ephantuz/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephantuz&" alt="ephantuz" /></p>
