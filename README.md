@@ -57,4 +57,4 @@ My Major Skills Are:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thedarkcypher"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thedarkcypher" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephantuz&" alt="ephantuz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephantuz&theme=radical" alt="ephantuz" /></p>
