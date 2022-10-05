@@ -54,5 +54,5 @@ My Major Skills Are:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thedarkcypher"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thedarkcypher" /></a></p><br><br>
 
 
-[<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ephantuz)  [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ephantuz254)  
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ephantuz)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ephantuz254)  
 
