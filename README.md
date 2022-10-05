@@ -24,15 +24,8 @@ My Major Skills Are:
 <img src="https://github.com/Ephantuz/Ephantuz/blob/main/UIDesigners.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/Success.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/giphy4.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/Mobile.gif" width="200" />
 
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ephantuz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ephantuz254)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ephantuz) 
-                     [![trophy](https://github-profile-trophy.vercel.app/?username=Ephantuz&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ephantuz&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
  
  
                                 - 🔭 I’m currently working on **APIs/Node/React-redux/MongoDB**
@@ -59,4 +52,7 @@ My Major Skills Are:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thedarkcypher"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thedarkcypher" /></a></p><br><br>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ephantuz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ephantuz254)  
 
