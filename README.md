@@ -19,7 +19,6 @@ My Major Skills Are:
     | DevOps | PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design  
     |  35%   |  68%   | 87%  | |   86%   |        80%             |   59%   | |  53%  | | 48% | |  66%  | |     90%
 
-- 🔭 I’m currently working on API's 
 
 <img src="https://github.com/Ephantuz/Ephantuz/blob/main/UIDesigners.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/Success.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/giphy4.gif" width="200" /><img src="https://github.com/Ephantuz/Ephantuz/blob/main/Mobile.gif" width="200" />
 
